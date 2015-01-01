@@ -2,7 +2,7 @@
         name = Oscar Gonzalez Fernandez
         email = ogfernandez@gmail.com
 [core]
-        editor emacsclient -nw
+        editor = emacsclient -nw
 [push]
         default = simple
 [color]
