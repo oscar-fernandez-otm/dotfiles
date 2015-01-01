@@ -1,14 +1,9 @@
 [user]
-	name = Martin Trojer
-	email = martin.trojer@gmail.com
+        name = Oscar Gonzalez Fernandez
+        email = ogfernandez@gmail.com
+[core]
+        editor emacsclient -nw
 [push]
-	default = simple
+        default = simple
 [color]
-	ui = true
-[http]
-	sslVerify = false
- 	postBuffer = 524288000
-[github]
-	user = martintrojer
-[github "encrypted"]
-	oauth-token = U2FsdGVkX1/brDdCscmcyw11kQplKWfvzy84rXaEHXX3vTvkYUvAXeXTho1QjpViweVtqxbT76ymh6/mHIL/6g==
+        ui = true
