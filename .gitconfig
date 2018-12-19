@@ -1,8 +1,8 @@
 [user]
         name = Oscar Gonzalez Fernandez
-        email = ogfernandez@gmail.com
+        email = oscar.fernandez@onthemarket.com
 [core]
-        editor = emacsclient -nw
+        editor = emacsclient -nw --alternate-editor=""
 [push]
         default = simple
 [color]
