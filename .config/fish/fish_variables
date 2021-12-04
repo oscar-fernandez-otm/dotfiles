@@ -1,10 +1,19 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
-SETUVAR EDITOR:emacsclient\x1e\x2dnw\x1e\x2d\x2dalternate\x2deditor\x3d
+SETUVAR --export EDITOR:emacsclient\x1e\x2dnw
 SETUVAR __fish_classic_git_prompt_initialized:\x1d
 SETUVAR __fish_init_2_39_8:\x1d
 SETUVAR __fish_init_2_3_0:\x1d
 SETUVAR __fish_init_3_x:\x1d
+SETUVAR __fish_initialized:3100
+SETUVAR _fish_abbr__2D_:cd\x20\x2d
+SETUVAR _fish_abbr_e:\x24EDITOR
+SETUVAR _fish_abbr_g:git
+SETUVAR _fish_abbr_gb:git\x20branch
+SETUVAR _fish_abbr_gbr:git\x20branch\x20\x2dr
+SETUVAR _fish_abbr_gca:git\x20commit\x20\x2d\x2damend
+SETUVAR _fish_abbr_gfo:git\x20fetch\x20origin
+SETUVAR _fish_abbr_glo:git\x20log\x20origin/master
 SETUVAR fish_color_autosuggestion:969896
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:b294bb
@@ -16,6 +25,7 @@ SETUVAR fish_color_error:cc6666
 SETUVAR fish_color_escape:00a6b2
 SETUVAR fish_color_history_current:\x2d\x2dbold
 SETUVAR fish_color_host:normal
+SETUVAR fish_color_host_remote:yellow
 SETUVAR fish_color_match:\x2d\x2dbackground\x3dbrblue
 SETUVAR fish_color_normal:normal
 SETUVAR fish_color_operator:00a6b2
