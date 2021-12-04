@@ -7,3 +7,5 @@
         default = simple
 [color]
         ui = true
+[grep]
+	extendRegexp = true
